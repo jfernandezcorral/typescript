@@ -3,6 +3,7 @@ var Colors;
 (function (Colors) {
     Colors[Colors["Rojo"] = 0] = "Rojo";
     Colors[Colors["Verde"] = 1] = "Verde";
+    Colors[Colors["Azul"] = 2] = "Azul";
 })(Colors || (Colors = {}));
 ;
 var f;
