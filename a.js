@@ -4,6 +4,7 @@ var Colors;
     Colors[Colors["Rojo"] = 0] = "Rojo";
     Colors[Colors["Verde"] = 1] = "Verde";
     Colors[Colors["Azul"] = 2] = "Azul";
+    Colors[Colors["Gris"] = 3] = "Gris";
 })(Colors || (Colors = {}));
 ;
 var f;

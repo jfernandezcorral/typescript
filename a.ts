@@ -1,5 +1,5 @@
 var t: number = 7;
-enum Colors {Rojo, Verde, Azul};
+enum Colors {Rojo, Verde, Azul, Gris};
 var f: (s: string) => string;
 f = function(s: string):string{
 	return s + s;
