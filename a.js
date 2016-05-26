@@ -9,7 +9,7 @@ var f;
 f = function (s) {
     return s + s;
 };
-console.log(f('hola'));
+console.log(f('adios'));
 var Character = (function () {
     function Character(f, l) {
         this.fullname = f + l;
