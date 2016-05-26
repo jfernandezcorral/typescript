@@ -4,7 +4,7 @@ var f: (s: string) => string;
 f = function(s: string):string{
 	return s + s;
 }
-console.log(f('hola'));
+console.log(f('adios'));
 class Character{
 	fullname: string;
 	constructor(f: string, l: string){
